@@ -1,0 +1,1 @@
+SIDCHG64.exe /KEY="7rq1f-#RkvE-g#f4O-sJ" /F /R /OD /RESETALLAPPS
